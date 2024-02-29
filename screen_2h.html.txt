@@ -1,0 +1,26 @@
+
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Login Page</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <img src="login_screen.jpg" alt="Login screen with email/mobile number, password, and buttons for logging in and signing up." class="login-image">
+    <div class="login-form">
+      <h1>Log In</h1>
+      <form action="#">
+        <label for="username">Email or Mobile Number</label>
+        <input type="text" id="username" name="username" required>
+        <label for="password">Password</label>
+        <input type="password" id="password" name="password" required>
+        <button type="submit">Log In</button>
+      </form>
+      <a href="#">Forget Password?</a>
+      <p>Have not any account? <a href="#">Sign up</a></p>
+    </div>
+  </div>
+</body>
+</html>

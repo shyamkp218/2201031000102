@@ -1,0 +1,26 @@
+.chat-window {
+  width: 400px;
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin: 0 auto;
+}
+
+.chat-window h2 {
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.chat-window ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.chat-window li {
+  margin-bottom: 10px;
+}
+
+.chat-window img {
+  width: 100%;
+  display: block;
+}

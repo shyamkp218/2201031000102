@@ -1,0 +1,22 @@
+
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Verify OTP</title>
+<style>
+.verify-otp-button {
+  text-align: center;
+  background-color: #f0f0f0;
+  border: 1px solid #cccccc;
+  padding: 10px 20px;
+  display: inline-block;
+  cursor: pointer;
+  border-radius: 5px;
+}
+</style>
+</head>
+<body>
+  <button class="verify-otp-button">Verify OTP</button>
+</body>
+</html>
